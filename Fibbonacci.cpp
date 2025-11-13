@@ -15,4 +15,3 @@ int main() {
     b = nextNumber;
   }
 }
-// asdasdaw
